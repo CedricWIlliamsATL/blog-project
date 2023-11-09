@@ -1,0 +1,98 @@
+/* Body colors */
+
+body {
+    color: #ffffff;
+    background-color: #ffffff;
+}
+
+/* Header colors */
+
+.header {
+    color: #f1f1f1; 
+    background-color: #757575;
+    
+}
+
+.header a {
+    text-decoration: none;
+    color: #ffff;
+}
+
+/* Subscribe button style */
+
+.subscribe-button {
+    background-color: #e24242;
+    color: #fff;
+}
+
+.subscribe-button:hover {
+    background-color: #ff0000; /* Darker red on hover */
+  }
+
+  /* sideitem colors */
+
+  .sideitem {
+    color: #ffffff;
+    background-color: #50b0f0;
+}
+
+  .sideitem a {
+    color: #ffffff;
+}
+  
+  /*  Blog post colors for blog page */
+
+    .blog-post {
+     background-color: #e24242;
+}
+
+    .blog-post a {
+        color: #333;
+}
+
+    .blog-container p {
+    color: black;
+}
+
+    .blog-container h4 {
+    color: red;
+}
+
+    .blog-card {
+        background-color: #fff;
+}
+
+    .blog-card-content p {
+        color: #333;
+}
+
+    .blog-card-content a {
+        color: #007bff;
+}
+
+    /* Button colors */
+
+    .button {
+        background-color: #007bff;
+        color: #fff;
+}
+
+/* Icons Courtesy of FontAwesome.com */
+
+    .fa-facebook {
+        color: blue;
+}
+
+    .fa-twitter {
+        color: #00acee;
+}
+
+    .fa-linkedin {
+        color: #08496c;
+}
+    /* Footer colors */
+
+    .footer {
+        background-color: #757575;
+        color: #fff;
+}

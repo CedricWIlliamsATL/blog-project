@@ -1,0 +1,135 @@
+@import "layout.css";
+@import "response.css";
+@import "color.css";
+
+/* CSS Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* body style */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Header Styles */
+  
+  .header h1 {
+    font-size: 1.3rem;
+    margin-right: auto;
+}
+  
+  .header ul {
+    list-style-type: none;
+}
+  
+  .header ul li {
+   display: inline;
+   margin-right: 1rem;
+}
+  
+  /* sideitem styles */
+
+  .sideitem a {
+    text-decoration: none;
+}
+ 
+  .sideitem h2 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+}
+  
+  .sideitem ul {
+    list-style-type: none;
+    margin-bottom: 25px;
+}
+  
+  .sideitem ul li {
+    margin-bottom: 5px;
+}
+  
+  /* Button Styles */
+
+   button  {
+    border: 3px solid black;
+    font-size: 1rem;
+    background: red;
+    border-radius: 5px;
+    align-self: center;
+}
+
+  article h3 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+    color: rgb(33, 17, 17);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+  /* Blog Post Styles */
+  
+  .blog-post h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0px;
+}
+  
+  .blog-post p {
+    font-size: 1rem;
+}
+  
+  .blog-post a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+  /* Footer Styles */
+  
+  .footer p {
+    font-size: 1rem;
+}
+
+/* Blog Post Card Styles*/
+
+  .blog-card-content {
+    padding: 1em;
+}
+
+  .blog-card-content h2 {
+   font-size: 1.5rem;
+   margin-bottom: 10px;
+}
+
+  .blog-card-content p {
+   font-size: 1rem;
+   line-height: 1.4;
+}
+
+.blog-card-content a {
+  text-align: right;
+  margin-top: 10px;
+  text-decoration: none;
+}
+
+.blog-card-content a:hover {
+  text-decoration: underline;
+}
+
+blockquote {
+  font-size: 1rem;
+  font-style: italic;
+  color: black;
+  margin-top: 20px;
+  padding-left: 20px;
+  border-left: 5px solid #000000;
+}
+
+
+
+
+
+  
+  
+  
